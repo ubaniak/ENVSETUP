@@ -1,0 +1,12 @@
+This script will give you the basic vimrc setup and append the 'matlab style' autocompletion to your bashrc.
+
+#WARNING
+
+This will overide your current vimrc.
+Remember to backup before you do anythin
+
+# SETUP
+
+clone this repo and make sure that setup_envs.sh is executable.
+
+run ./setup_env.sh 
