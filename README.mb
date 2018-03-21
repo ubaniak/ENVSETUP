@@ -7,6 +7,6 @@ Remember to backup before you do anythin
 
 # SETUP
 
-clone this repo and make sure that setup_envs.sh is executable.
+clone this repo and make sure that setup_env.sh is executable.
 
 run ./setup_env.sh 
