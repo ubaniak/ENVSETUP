@@ -27,5 +27,6 @@ echo 'syntax enable' >> $VIMRC
 
 echo "Overiding your bashrc"
 
-echo bind \'"\e[A":history-search-backward\' >> $BASHRC
-echo bind \'"\e[B":history-search-forward\' >> $BASHRC
+echo bind \'\"\e[A\":history-search-backward\' >> $BASHRC
+echo bind \'\"\e[B\":history-search-forward\' >> $BASHRC
+source ~/.bashrc
